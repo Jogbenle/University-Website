@@ -70,7 +70,7 @@ nav img{
     display: inline-block;
     text-decoration: none;
     color: white;
-    border: 1px solid white;
+    border: 1px solid wte;
     padding: 12px 34px;
     font-size: 13px;
     background: transparent; 
@@ -82,4 +82,8 @@ nav img{
     background: #f44336;
     transition: 1s;
 }
-
+@media(max-width: 700px){
+    .text-box h1{
+        font-size: 20px;
+}
+}
