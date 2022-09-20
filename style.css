@@ -342,3 +342,11 @@ h3{
 .red-btn:hover{
     color: #fff;
 }
+
+/*-------blog-content---------*/
+
+.blog-content{
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+}
