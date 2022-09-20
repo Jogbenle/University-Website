@@ -353,3 +353,6 @@ h3{
 .blog-left{
     flex-basis: 65%;
 }
+.blog-left img{
+    width: 100%;
+}
