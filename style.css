@@ -440,3 +440,6 @@ h3{
     margin: 10px;
     margin-right: 30px;
 }
+.contact-col div p{
+    padding: 0;
+}
